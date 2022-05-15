@@ -1,4 +1,4 @@
-# Play your favourite musiv
+# Play your favourite music
 
 A new Flutter project.
 
